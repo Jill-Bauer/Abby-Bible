@@ -1,0 +1,36 @@
+# Welcome to the Abby-Bible Archive
+
+Use the links below to explore each part:
+
+## 📚 Abby Bible Parts
+
+- [Abby Bible PART 001](Abby%20Bible%20PART%20001.md)
+- [Abby Bible PART 002](Abby%20Bible%20PART%20002.md)
+- [Abby Bible PART 003](Abby%20Bible%20PART%20003.md)
+- [Abby Bible PART 004](Abby%20Bible%20PART%20004.md)
+- [Abby Bible PART 005](Abby%20Bible%20PART%20005.md)
+- [Abby Bible PART 006](Abby%20Bible%20PART%20006.md)
+- [Abby Bible PART 007](Abby%20Bible%20PART%20007.md)
+- [Abby Bible PART 008](Abby%20Bible%20PART%20008.md)
+- [Abby Bible PART 009](Abby%20Bible%20PART%20009.md)
+- [Abby Bible PART 010](Abby%20Bible%20PART%20010.md)
+- [Abby Bible PART 011](Abby%20Bible%20PART%20011.md)
+- [Abby Bible PART 012](Abby%20Bible%20PART%20012.md)
+- [Abby Bible PART 013](Abby%20Bible%20PART%20013.md)
+- [Abby Bible PART 014](Abby%20Bible%20PART%20014.md)
+- [Abby Bible PART 015](Abby%20Bible%20PART%20015.md)
+- [Abby Bible PART 016](Abby%20Bible%20PART%20016.md)
+- [Abby Bible PART 017](Abby%20Bible%20PART%20017.md)
+- [Abby Bible PART 018](Abby%20Bible%20PART%20018.md)
+- [Abby Bible PART 019](Abby%20Bible%20PART%20019.md)
+- [Abby Bible PART 020](Abby%20Bible%20PART%20020.md)
+- [Abby Bible PART 021](Abby%20Bible%20PART%20021.md)
+- [Abby Bible PART 022](Abby%20Bible%20PART%20022.md)
+- [Abby Bible PART 023](Abby%20Bible%20PART%20023.md)
+- [Abby Bible PART 024](Abby%20Bible%20PART%20024.md)
+- [Abby Bible PART 025](Abby%20Bible%20PART%20025.md)
+- [Abby Bible PART 026](Abby%20Bible%20PART%20026.md)
+- [Abby Bible PART 027](Abby%20Bible%20PART%20027.md)
+- [Abby Bible PART 028](Abby%20Bible%20PART%20028.md)
+- [Abby Bible PART 029](Abby%20Bible%20PART%20029.md)
+- [Abby Bible PART 030](Abby%20Bible%20PART%20030.md)
